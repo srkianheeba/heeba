@@ -69,7 +69,7 @@
   </style>
 </head>
 <body>
-  <h1>Frequently Asked Questions</h1>
+  <h1>2d GEOMETRY</h1>
   <div id="faq-container" class="faq-container"></div>
 
   <script>
